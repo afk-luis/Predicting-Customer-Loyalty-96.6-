@@ -1,4 +1,4 @@
-# Predicting-Customer-Loyalty-96.6%-
+# Predicting-Customer-Loyalty-(96.6%)
 
 __Problem Statement:__<br>
 Predict the customer's loyalty score in order to determine if the customer is likely to organically build loyalty with the brand.
