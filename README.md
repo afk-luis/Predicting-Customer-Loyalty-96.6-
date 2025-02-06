@@ -16,3 +16,5 @@ loyalty_score: Customer's loyalty score (a value between 0-100).<br>
 
 __Caveat:__<br>
 Manual iterative calculations were developed instead of typical machine learning libraries in order to test and demonstrate mastery with the fundamentals of supervised learning, particularly with linear and logistic regression models.
+
+_Data Source: https://www.kaggle.com/datasets/hanaksoy/customer-purchasing-behaviors/data_
